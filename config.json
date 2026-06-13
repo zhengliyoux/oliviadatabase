@@ -1,0 +1,17 @@
+{
+  "premku_secret": "40703d53997611f00755ec044",
+  "am_products": [
+    {
+      "id": "am_april_2027",
+      "name": "AM Exp April 2027",
+      "price_buy": 600,
+      "price_sell": 7000
+    },
+    {
+      "id": "am_mei_2027",
+      "name": "AM Exp Mei 2027",
+      "price_buy": 700,
+      "price_sell": 7000
+    }
+  ]
+}

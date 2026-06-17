@@ -51,7 +51,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.18",
+    "@whiskeysockets/baileys": "github:zhengliyoux/flutterbybttr", 
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.3",
     "@cacheable/node-cache": "^1.4.0",
